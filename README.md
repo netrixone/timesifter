@@ -2,6 +2,8 @@
 
 **Microsecond timestamp calculator. Because there's just too much digits.**
 
+Demo: [timesifter.now.sh](https://timesifter.now.sh)
+
 **Features:**
 
 - [x] Converts epoch microseconds to ISO-like datetime
