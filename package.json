@@ -22,7 +22,7 @@
     "url": "https://github.com/netrixone/timesifter/issues"
   },
   "dependencies": {
-    "@types/node": "^12.12.11",
+    "@types/node": "^12.12.18",
     "core-js": "^3.3.2",
     "hack": "^0.8.1",
     "hexy": "^0.3.0",
